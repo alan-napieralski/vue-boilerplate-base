@@ -28,5 +28,6 @@
     "typescript": "^5.9.2",
     "vue-tsc": "^3.0.8"
   },
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "packageManager": "pnpm@10.22.0"
 }
