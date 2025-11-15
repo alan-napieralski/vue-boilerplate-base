@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/alan-napieralski/vue-boilerplate-base/compare/v0.1.0...v0.1.1) (2025-11-15)
+
+
+### Features
+
+* Convert from npm to pnpm ([db57908](https://github.com/alan-napieralski/vue-boilerplate-base/commit/db579083d20abdf4e9325bd48e23fa1d225ae908))
+
 # 0.1.0 (2025-11-15)
 
 
